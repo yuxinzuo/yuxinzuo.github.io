@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year master candidate (2024-2027) in the Key Laboratory of Network Data Science & Technology, Institute of Computing Technology, Chinese Academy of Sciences (中国科学院计算技术研究所), advised by [Xiaolong Jin (靳小龙)](http://www.bigdatalab.ac.cn/jxl/).
+I am a first-year master candidate (2024-2027) at the Key Laboratory of Network Data Science & Technology, Institute of Computing Technology, Chinese Academy of Sciences (中国科学院计算技术研究所), advised by [Xiaolong Jin (靳小龙)](http://www.bigdatalab.ac.cn/jxl/).
 I received a bachelor's degree and the presidential award from Northeastern University (China) in 2024, majoring in software engineering (AI track).
 
 My primary research interests include natural language processing and large language models, with my current research interests remaining open. I have previously researched In-Context Learning, Information Extraction, and Machine Translation.
