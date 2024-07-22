@@ -93,13 +93,11 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 
 
 # 📖 Educations
-- **[University of Chinese Academy of Sciences](https://www.ucas.ac.cn) [(Institute of Computing Technology, Chinese Academy of Sciences)](http://www.ict.ac.cn)**, *2024.09 - 2027.06 (Expected)*
-
-M.S. in Computer Science and Technology.
+- **[University of Chinese Academy of Sciences](https://www.ucas.ac.cn) [(ICT/CAS)](http://www.ict.ac.cn)**, *2024.09 - 2027.06 (Expected)*
+  M.S. in Computer Science and Technology.
 
 - **[Northeastern University (China)](https://www.neu.edu.cn)**, *2020.09 - 2024.06*
-
-B.E. in Software Engineering (AI track).
+  B.E. in Software Engineering (AI track).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
