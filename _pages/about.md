@@ -89,11 +89,14 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 
 
 # 🎖 Honors and Awards
-- *2024.05* Presidential Award of Northeastern University (China) (东北大学 校长奖章) **[10 winners]**
+- *2024.05* Presidential Award of Northeastern University (China) (东北大学 校长奖章) **[[Page]](https://mp.weixin.qq.com/s/we-Leze1c7VKOCP9KBOBiw) [10 Winners]**
+
 
 # 📖 Educations
-- *2024.09 - 2027.06*, Master Candidate. Computer Science and Technology. Key Laboratory of Network Data Science & Technology, [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn).
-- *2020.09 - 2024.06*, Bachelor’s Degree. Software Engineering (AI track). [Northeastern University (China)](https://www.neu.edu.cn).
+- **[University of Chinese Academy of Sciences](https://www.ucas.ac.cn) [(Institute of Computing Technology, Chinese Academy of Sciences)](http://www.ict.ac.cn)**, *2024.09 - 2027.06 (Expected)*
+M.S. in Computer Science and Technology.
+- **[Northeastern University (China)](https://www.neu.edu.cn)**, *2020.09 - 2024.06*
+B.E. in Software Engineering (AI track).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
