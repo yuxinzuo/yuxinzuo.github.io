@@ -41,7 +41,11 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 
 **Yuxin Zuo\***, Zixuan Li\*, Yutao Zeng\*,  Weicheng Ren\*, Wenxuan Liu, Miao Su, Yucan Guo, Yantao Liu, Xiang Li, Zhilei Hu, Long Bai, Wei Li, Yidan Liu, Pan Yang, Xiaolong Jin, Jiafeng Guo, and Xueqi Cheng
 
-[**ACL 2024 (Main)**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=5TRLpyIAAAAJ&sortby=pubdate&citation_for_view=5TRLpyIAAAAJ:yxAilOxaV9sC) <strong><span class='show_paper_citations' data='5TRLpyIAAAAJ:yxAilOxaV9sC'></span></strong>
+<!-- 
+[**ACL 2024 (Main)**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=5TRLpyIAAAAJ&sortby=pubdate&citation_for_view=5TRLpyIAAAAJ:yxAilOxaV9sC) <strong><span class='show_paper_citations' data='5TRLpyIAAAAJ:yxAilOxaV9sC'></span></strong> -->
+
+[![arXiv](https://img.shields.io/badge/Paper-arXiv_2023-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2403.07969) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-BayLing-orange.svg)](https://ict-goknow.github.io/knowcoder/) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Online_Demo-BayLing-green.svg)](http://gomate.ac.cn:10521/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/collections/golaxy/knowcoder-65fc3cd385d98567da412abf) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ICT-GoKnow/KnowCoder)
+
 - We propose a novel method to encode structured knowledge into large language models (LLMs) for universal information extraction.
 </div>
 </div>
