@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuxin Zuo"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Yuxin Zuo (左宇新)"
+  avatar           : "images/zyx.png"
   bio              : "ICT/CAS"
   location         : "Beijing, China"
   employer         :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/YuxinZuo9730"
+  twitter          : "YuxinZuo9730"
   vine             :
   weibo            :
   xing             :

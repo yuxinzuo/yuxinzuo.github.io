@@ -63,7 +63,7 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 
 # 📖 Educations
 - *2024.09 - 2027.06*, Master Candidate. Computer Science and Technology. Key Laboratory of Network Data Science & Technology, [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn).
-- *2020.09 - 2024.06*, Bachelor’s degree. Software engineering (AI track). [Northeastern University (China)](https://www.neu.edu.cn).
+- *2020.09 - 2024.06*, Bachelor’s Degree. Software Engineering (AI track). [Northeastern University (China)](https://www.neu.edu.cn).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
