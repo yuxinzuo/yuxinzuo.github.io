@@ -31,20 +31,22 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 
 # 📝 Publications 
 
-<!-- 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 (Main)</div><img src='images/knowcoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction](https://arxiv.org/pdf/2403.07969)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yuxin Zuo\***, Zixuan Li\*, Yutao Zeng\*,  Weicheng Ren\*, Wenxuan Liu, Miao Su, Yucan Guo, Yantao Liu, Xiang Li, Zhilei Hu, Long Bai, Wei Li, Yidan Liu, Pan Yang, Xiaolong Jin, Jiafeng Guo, and Xueqi Cheng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**ACL 2024 (Main)**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=5TRLpyIAAAAJ&sortby=pubdate&citation_for_view=5TRLpyIAAAAJ:yxAilOxaV9sC) <strong><span class='show_paper_citations' data='5TRLpyIAAAAJ:yxAilOxaV9sC'></span></strong>
+- We propose a novel method to encode structured knowledge into large language models (LLMs) for universal information extraction. Our method, KnowCoder, can effectively encode structured knowledge into LLMs and significantly improve the performance of information extraction tasks.
 </div>
-</div> -->
+</div>
 
 \* indicates equal contribution.
+
+#### 📖 Information Extraction
 
 - [KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction](https://github.com/ICT-GoKnow/KnowCoder)
 
@@ -52,11 +54,15 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 
   **ACL 2024 (Main)**
 
+#### 📚 Machine Translation
+
 - [Incorporating Probing Signals into Multimodal Machine Translation via Visual Question-Answering Pairs](https://github.com/libeineu/MMT-VQA)
 
   **Yuxin Zuo\***, Bei Li\*, Chuanhao Lv, Tong Zheng, Tong Xiao, and JingBo Zhu
 
   **EMNLP 2023 (Findings)**
+
+<!-- #### 🧑‍🎨 In-Context Learning -->
 
 # 🎖 Honors and Awards
 - *2024.05* Presidential Award of Northeastern University (China) (东北大学 校长奖章) **[10 winners]**
