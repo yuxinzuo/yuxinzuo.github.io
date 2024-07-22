@@ -27,10 +27,10 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2024.07.22*: &nbsp;🎉🎉 My academic homepage was born!🍾🍾
+- *2024.07*: &nbsp;🎉🎉 My academic homepage was born!🍾🍾
 
 # 📝 Publications 
-\* indicates equal contribution.
+
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,6 +44,7 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 </div>
 </div> -->
 
+\* indicates equal contribution.
 
 - [KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction](https://github.com/ICT-GoKnow/KnowCoder)
 
@@ -58,7 +59,7 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
   **EMNLP 2023 (Findings)**
 
 # 🎖 Honors and Awards
-- *2024.05* Presidential Award of Northeastern University (China) (东北大学 校长奖章) [10 winners]
+- *2024.05* Presidential Award of Northeastern University (China) (东北大学 校长奖章) **[10 winners]**
 
 # 📖 Educations
 - *2024.09 - 2027.06*, Master Candidate. Computer Science and Technology. Key Laboratory of Network Data Science & Technology, [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn).
