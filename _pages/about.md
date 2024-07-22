@@ -44,7 +44,7 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 <!-- 
 [**ACL 2024 (Main)**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=5TRLpyIAAAAJ&sortby=pubdate&citation_for_view=5TRLpyIAAAAJ:yxAilOxaV9sC) <strong><span class='show_paper_citations' data='5TRLpyIAAAAJ:yxAilOxaV9sC'></span></strong> -->
 
-[![arXiv](https://img.shields.io/badge/Paper-arXiv_2023-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2403.07969) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-BayLing-orange.svg)](https://ict-goknow.github.io/knowcoder/) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Online_Demo-BayLing-green.svg)](http://gomate.ac.cn:10521/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/collections/golaxy/knowcoder-65fc3cd385d98567da412abf) [![](https://img.shields.io/github/stars/ictnlp/BayLing?style=social&label=Code+Stars)](https://github.com/ICT-GoKnow/KnowCoder)
+[![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2403.07969) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-KnowCoder-orange.svg)](https://ict-goknow.github.io/knowcoder/) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Demo-KnowCoder-green.svg)](http://gomate.ac.cn:10521/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/collections/golaxy/knowcoder-65fc3cd385d98567da412abf) [![](https://img.shields.io/github/stars/ICT-GoKnow/KnowCoder?style=social&label=Code+Stars)](https://github.com/ICT-GoKnow/KnowCoder)
 
 - We propose a novel method to encode structured knowledge into large language models (LLMs) for universal information extraction.
 </div>
@@ -59,7 +59,10 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 
 **Yuxin Zuo\***, Bei Li\*, Chuanhao Lv, Tong Zheng, Tong Xiao, and JingBo Zhu
 
-[**EMNLP 2023 (Findings)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wzbJ5EIAAAAJ&sortby=pubdate&citation_for_view=wzbJ5EIAAAAJ:bEWYMUwI8FkC) <strong><span class='show_paper_citations' data='wzbJ5EIAAAAJ:bEWYMUwI8FkC'></span></strong>
+<!-- [**EMNLP 2023 (Findings)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wzbJ5EIAAAAJ&sortby=pubdate&citation_for_view=wzbJ5EIAAAAJ:bEWYMUwI8FkC) <strong><span class='show_paper_citations' data='wzbJ5EIAAAAJ:bEWYMUwI8FkC'></span></strong> -->
+
+[![arXiv](https://img.shields.io/badge/Paper-EMNLP_2023-b31b1b.svg?style=plastic&logo=arXiv)](https://aclanthology.org/2023.findings-emnlp.978.pdf) [![](https://img.shields.io/github/stars/libeineu/MMT-VQA?style=social&label=Code+Stars)](https://github.com/libeineu/MMT-VQA)
+
 - This paper presents an in-depth study of multimodal machine translation (MMT), examining the prevailing understanding that MMT systems exhibit decreased sensitivity to visual information when text inputs are complete.
 </div>
 </div>
