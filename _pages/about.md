@@ -22,7 +22,7 @@ I received a bachelor's degree and the presidential award from Northeastern Univ
 
 My primary research interests include natural language processing and large language models, with my current research interests remaining open. I have previously researched In-Context Learning, Information Extraction, and Machine Translation.
 
-Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation) advised by [Shujian Huang (黄书剑)](https://scholar.google.com/citations?user=HF3-E9kAAAAJ&hl=zh-CN), and **NEUNLP Lab** (2024, Multimodal Machine Translation) advised by [Tong Xiao (肖桐)](https://scholar.google.com/citations?user=-fov7zkAAAAJ). I also work closely with [Bei Li (李北)](https://libeineu.github.io).
+Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation) advised by [Shujian Huang (黄书剑)](https://scholar.google.com/citations?user=HF3-E9kAAAAJ&hl=zh-CN), and at **NEUNLP Lab** (2024, Multimodal Machine Translation) advised by [Tong Xiao (肖桐)](https://scholar.google.com/citations?user=-fov7zkAAAAJ). I also work closely with [Bei Li (李北)](https://libeineu.github.io).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -46,7 +46,7 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 
 [![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2403.07969) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-KnowCoder-orange.svg)](https://ict-goknow.github.io/knowcoder/) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Demo-KnowCoder-green.svg)](http://gomate.ac.cn:10521/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Collections-blue.svg)](https://huggingface.co/collections/golaxy/knowcoder-65fc3cd385d98567da412abf) [![](https://img.shields.io/github/stars/ICT-GoKnow/KnowCoder?style=social&label=Code+Stars)](https://github.com/ICT-GoKnow/KnowCoder)
 
-- Invitation code for registration: **G4O7M1A5T6E3**.
+- Invitation code for demo registration: **G4O7M1A5T6E3**.
 - We propose a novel method to encode structured knowledge into large language models (LLMs) for universal information extraction (UIE).
 </div>
 </div>
