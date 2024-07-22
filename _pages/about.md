@@ -47,7 +47,7 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 [![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2403.07969) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-KnowCoder-orange.svg)](https://ict-goknow.github.io/knowcoder/) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Demo-KnowCoder-green.svg)](http://gomate.ac.cn:10521/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Collections-blue.svg)](https://huggingface.co/collections/golaxy/knowcoder-65fc3cd385d98567da412abf) [![](https://img.shields.io/github/stars/ICT-GoKnow/KnowCoder?style=social&label=Code+Stars)](https://github.com/ICT-GoKnow/KnowCoder)
 
 - Invitation code for registration: **G4O7M1A5T6E3**.
-- We propose a novel method to encode structured knowledge into large language models (LLMs) for universal information extraction.
+- We propose a novel method to encode structured knowledge into large language models (LLMs) for universal information extraction (UIE).
 </div>
 </div>
 
@@ -94,8 +94,11 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 
 # 📖 Educations
 - **[University of Chinese Academy of Sciences](https://www.ucas.ac.cn) [(Institute of Computing Technology, Chinese Academy of Sciences)](http://www.ict.ac.cn)**, *2024.09 - 2027.06 (Expected)*
+
 M.S. in Computer Science and Technology.
+
 - **[Northeastern University (China)](https://www.neu.edu.cn)**, *2020.09 - 2024.06*
+
 B.E. in Software Engineering (AI track).
 
 <!-- # 💬 Invited Talks
