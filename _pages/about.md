@@ -18,11 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a first-year master candidate (2024-2027) in the Key Laboratory of Network Data Science & Technology, Institute of Computing Technology, Chinese Academy of Sciences (中国科学院计算技术研究所), advised by [Xiaolong Jin (靳小龙)](http://www.bigdatalab.ac.cn/jxl/).
-I received a bachelor's degree and the Presidential Award from Northeastern University (China) in 2024, majoring in software engineering (AI track).
+I received a bachelor's degree and the presidential award from Northeastern University (China) in 2024, majoring in software engineering (AI track).
 
-I have previously researched **In-Context Learning**, **Information Extraction**, and **Machine Translation**.
-My primary research interests include natural language processing and large language models, with my current research interests remaining open.
-Specifically, I am particularly interested in research issues related to LLMs, such as reasoning, multimodality, model architecture, and efficient training methods.
+My primary research interests include natural language processing and large language models, with my current research interests remaining open. I have previously researched In-Context Learning, Information Extraction, and Machine Translation.
 
 Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation) advised by [Shujian Huang (黄书剑)](https://scholar.google.com/citations?user=HF3-E9kAAAAJ&hl=zh-CN), and **NEUNLP Lab** (2024, Multimodal Machine Translation) advised by [Tong Xiao (肖桐)](https://scholar.google.com/citations?user=-fov7zkAAAAJ). I also work closely with [Bei Li (李北)](https://libeineu.github.io).
 
@@ -32,6 +30,7 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 - *2024.07.22*: &nbsp;🎉🎉 My academic homepage was born!🍾🍾
 
 # 📝 Publications 
+\* indicates equal contribution.
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,22 +47,22 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 
 - [KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction](https://github.com/ICT-GoKnow/KnowCoder)
 
-  **Yuxin Zuo\***, Zixuan Li^\*^, Yutao Zeng^\*^,  Weicheng Ren^\*^, Wenxuan Liu, Miao Su, Yucan Guo, Yantao Liu, Xiang Li, Zhilei Hu, Long Bai, Wei Li, Yidan Liu, Pan Yang, Xiaolong Jin, Jiafeng Guo, and Xueqi Cheng
+  **Yuxin Zuo\***, Zixuan Li\*, Yutao Zeng\*,  Weicheng Ren\*, Wenxuan Liu, Miao Su, Yucan Guo, Yantao Liu, Xiang Li, Zhilei Hu, Long Bai, Wei Li, Yidan Liu, Pan Yang, Xiaolong Jin, Jiafeng Guo, and Xueqi Cheng
 
   **ACL 2024 (Main)**
 
 - [Incorporating Probing Signals into Multimodal Machine Translation via Visual Question-Answering Pairs](https://github.com/libeineu/MMT-VQA)
 
-  **Yuxin Zuo<sup>*</sup>**, Bei Li^\*^, Chuanhao Lv, Tong Zheng, Tong Xiao, and JingBo Zhu
+  **Yuxin Zuo\***, Bei Li\*, Chuanhao Lv, Tong Zheng, Tong Xiao, and JingBo Zhu
 
   **EMNLP 2023 (Findings)**
 
 # 🎖 Honors and Awards
-- *2024.05* Presidential Award of Northeastern University (东北大学 校长奖章) [10 winners]
+- *2024.05* Presidential Award of Northeastern University (China) (东北大学 校长奖章) [10 winners]
 
 # 📖 Educations
 - *2024.09 - 2027.06*, Master Candidate. Computer Science and Technology. Key Laboratory of Network Data Science & Technology, [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn).
-- *2020.09 - 2024.06*, Bachelor’s degree. Software engineering (AI track). [Northeastern University](https://www.neu.edu.cn).
+- *2020.09 - 2024.06*, Bachelor’s degree. Software engineering (AI track). [Northeastern University (China)](https://www.neu.edu.cn).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
