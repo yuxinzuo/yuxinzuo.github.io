@@ -27,7 +27,7 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 My academic homepage was born!🍾🍾
+- *2024.07*: &nbsp;🎉🎉 Hello, World!🍾🍾
 
 # 📝 Publications 
 
@@ -44,9 +44,10 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 <!-- 
 [**ACL 2024 (Main)**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=5TRLpyIAAAAJ&sortby=pubdate&citation_for_view=5TRLpyIAAAAJ:yxAilOxaV9sC) <strong><span class='show_paper_citations' data='5TRLpyIAAAAJ:yxAilOxaV9sC'></span></strong> -->
 
-[![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2403.07969) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-KnowCoder-orange.svg)](https://ict-goknow.github.io/knowcoder/) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Demo-KnowCoder-green.svg)](http://gomate.ac.cn:10521/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Models-blue.svg)](https://huggingface.co/collections/golaxy/knowcoder-65fc3cd385d98567da412abf) [![](https://img.shields.io/github/stars/ICT-GoKnow/KnowCoder?style=social&label=Code+Stars)](https://github.com/ICT-GoKnow/KnowCoder)
+[![arXiv](https://img.shields.io/badge/Paper-ACL_2024-b31b1b.svg?style=plastic&logo=arXiv)](https://arxiv.org/pdf/2403.07969) [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-KnowCoder-orange.svg)](https://ict-goknow.github.io/knowcoder/) [![project](https://img.shields.io/badge/%F0%9F%92%AC%20Demo-KnowCoder-green.svg)](http://gomate.ac.cn:10521/) [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Collections-blue.svg)](https://huggingface.co/collections/golaxy/knowcoder-65fc3cd385d98567da412abf) [![](https://img.shields.io/github/stars/ICT-GoKnow/KnowCoder?style=social&label=Code+Stars)](https://github.com/ICT-GoKnow/KnowCoder)
 
 - We propose a novel method to encode structured knowledge into large language models (LLMs) for universal information extraction.
+- Invitation code for registration: G4O7M1A5T6E3
 </div>
 </div>
 
