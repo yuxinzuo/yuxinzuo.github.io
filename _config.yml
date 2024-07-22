@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuxin Zuo"
+title                    : "Yuxin Zuo (左宇新)"
 description              : "Master Candidate at Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)"
 repository               : "yuxinzuo/yuxinzuo.github.io"
 google_scholar_stats_use_cdn : true

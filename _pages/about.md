@@ -33,7 +33,7 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 
 \* indicates equal contribution.
 
-#### 📖 Information Extraction
+### 📖 Information Extraction
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 (Main)</div><img src='images/knowcoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,7 +47,7 @@ Previously, I was an intern at **NJUNLP Lab** (2023, Neural Machine Translation)
 </div>
 
 
-#### 📚 Machine Translation
+### 📚 Machine Translation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 (Findings)</div><img src='images/mmt-vqa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
