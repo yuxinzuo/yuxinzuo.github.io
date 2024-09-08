@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxin Zuo (左宇新)"
-description              : "Master Candidate at Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)"
+description              : "Master Student at ICT/CAS"
 repository               : "yuxinzuo/yuxinzuo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -55,7 +55,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "YuxinZuo9730"
+  twitter          : # "YuxinZuo9730"
   vine             :
   weibo            :
   xing             :
